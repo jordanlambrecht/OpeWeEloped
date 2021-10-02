@@ -4,6 +4,7 @@
   "description": "Bergen and Jordan get married",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Lambrecht",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/jordanlambrecht/OpeWeEloped/issues"
   },
-  "homepage": "https://github.com/jordanlambrecht/OpeWeEloped#readme"
+  "homepage": "https://github.com/jordanlambrecht/OpeWeEloped#readme",
+  "devDependencies": {
+    "webpack": "^5.56.0",
+    "webpack-cli": "^4.8.0"
+  }
 }
