@@ -1,0 +1,11 @@
+{
+  "name": "opeweeloped",
+  "version": "1.0.0",
+  "description": "Bergen and Jordan get married",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Lambrecht",
+  "license": "ISC"
+}
