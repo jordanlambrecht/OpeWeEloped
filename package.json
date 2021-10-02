@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Lambrecht",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanlambrecht/OpeWeEloped.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jordanlambrecht/OpeWeEloped/issues"
+  },
+  "homepage": "https://github.com/jordanlambrecht/OpeWeEloped#readme"
 }
